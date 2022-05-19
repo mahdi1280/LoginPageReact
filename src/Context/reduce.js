@@ -5,6 +5,7 @@ export const initialState={
     loading:true,
     error:null
 }
+
 export const actionTypes={
     LOGIN_REQUEST: 'LOGIN_REQUEST',
     LOGIN_SUCCESS: 'LOGIN_SUCCESS',
